@@ -13,14 +13,6 @@ This repository contains a complete pipeline for synthesizing dental OPG images 
 - [Overview](#overview)
 - [Features](#features)
 - [Repository Structure](#repository-structure)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Data Preparation](#data-preparation)
-- [Training and Evaluation](#training-and-evaluation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
