@@ -12,7 +12,6 @@ This repository contains a complete pipeline for synthesizing dental OPG images 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Repository Structure](#repository-structure)
 
 ## Overview
 
@@ -49,6 +48,4 @@ The aim of this project is to generate realistic synthetic dental OPG images usi
   - Logs generator and discriminator losses.
   - Saves generated image samples at each epoch.
   - Plots loss curves and evaluation metrics (FID and Inception Score placeholders).
-
-## Repository Structure
 
